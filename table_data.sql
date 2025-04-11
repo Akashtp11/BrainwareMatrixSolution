@@ -7,6 +7,7 @@ VALUES
 
 -- Adding new column in return_status
 
+
 ALTER TABLE return_status
 ADD Column book_quality VARCHAR(15) DEFAULT('Good');
 
