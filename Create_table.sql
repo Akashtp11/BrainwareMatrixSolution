@@ -1,5 +1,4 @@
 -- Library Management System Project --
-
 --Creating new database--
 CREATE database LibraryManagement
 -- Creating Branch table --
